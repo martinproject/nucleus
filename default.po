@@ -1,0 +1,1167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-19 13:01+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Orman <ormanclark@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+#: index.php:92
+#: page.php:38
+#: single-portfolio.php:328
+#: single.php:65
+#: template-archives.php:68
+#: template-contact.php:135
+#: template-full-width.php:42
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:21
+#: index.php:96
+#: page.php:42
+#: single-portfolio.php:332
+#: single.php:69
+#: template-archives.php:72
+#: template-contact.php:139
+#: template-full-width.php:46
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+#: index.php:69
+#: single.php:34
+#: template-home-alt.php:167
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:23
+msgid "One Comments"
+msgstr ""
+
+#: comments.php:23
+#: index.php:69
+#: single.php:34
+#: template-home-alt.php:167
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:37
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:85
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:85
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:102
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: comments.php:109
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:109
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:114
+msgid "Name"
+msgstr ""
+
+#: comments.php:114
+msgid "<span>*</span>"
+msgstr ""
+
+#: comments.php:117
+msgid "Email"
+msgstr ""
+
+#: comments.php:117
+msgid "<span>*</span> <small>(will not be published)</small>"
+msgstr ""
+
+#: comments.php:120
+msgid "Website"
+msgstr ""
+
+#: comments.php:129
+msgid "Submit"
+msgstr ""
+
+#: footer.php:9
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:9
+msgid "Powered by"
+msgstr ""
+
+#: functions.php:18
+msgid "Primary Menu One"
+msgstr ""
+
+#: functions.php:19
+msgid "Primary Menu Two"
+msgstr ""
+
+#: functions.php:228
+#, php-format
+msgid "<span class=\"author-name\">%s</span>"
+msgstr ""
+
+#: functions.php:228
+msgid "*"
+msgstr ""
+
+#: functions.php:231
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:231
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:236
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:122
+msgid "T"
+msgstr ""
+
+#: header.php:126
+msgid "E"
+msgstr ""
+
+#: header.php:161
+msgid "Pause"
+msgstr ""
+
+#: index.php:15
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: index.php:17
+msgid "Search Results:"
+msgstr ""
+
+#: index.php:19
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: index.php:21
+#: index.php:23
+#: index.php:25
+msgid "Archive for"
+msgstr ""
+
+#: index.php:27
+msgid "All posts by"
+msgstr ""
+
+#: index.php:29
+msgid "Blog Archives"
+msgstr ""
+
+#: index.php:43
+#: single-portfolio.php:306
+#: template-home-alt.php:71
+#: template-home-alt.php:82
+#: template-home-alt.php:152
+#: template-home-alt.php:160
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: index.php:69
+#: single.php:34
+#: template-home-alt.php:167
+msgid "1 Comment"
+msgstr ""
+
+#: index.php:70
+msgid "Continue Reading"
+msgstr ""
+
+#: index.php:82
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: index.php:83
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: page.php:19
+#: template-full-width.php:23
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:4
+msgid "To search type and hit enter"
+msgstr ""
+
+#: single-portfolio.php:30
+msgid "<strong> : Prev</strong>"
+msgstr ""
+
+#: single-portfolio.php:33
+msgid "<strong>Next : </strong>"
+msgstr ""
+
+#: template-archives.php:29
+msgid "Last 30 Posts"
+msgstr ""
+
+#: template-archives.php:38
+msgid "Archives by Month:"
+msgstr ""
+
+#: template-archives.php:44
+msgid "Archives by Subject:"
+msgstr ""
+
+#: template-contact.php:79
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: template-contact.php:85
+msgid "Sorry, an error occurred."
+msgstr ""
+
+#: template-contact.php:90
+msgid "Name:"
+msgstr ""
+
+#: template-contact.php:97
+msgid "Email:"
+msgstr ""
+
+#: template-contact.php:104
+msgid "Message:"
+msgstr ""
+
+#: template-contact.php:113
+msgid "Send Email"
+msgstr ""
+
+#: template-home-alt.php:168
+msgid "edit"
+msgstr ""
+
+#: template-home.php:30
+msgid "Read more..."
+msgstr ""
+
+#: template-portfolio.php:21
+msgid "Filter:"
+msgstr ""
+
+#: template-portfolio.php:23
+msgid "All"
+msgstr ""
+
+#: admin/admin-interface.php:685
+msgid "All Categories"
+msgstr ""
+
+#: admin/admin-interface.php:686
+msgid "No Categories"
+msgstr ""
+
+#: admin/admin-interface.php:732
+#: functions/theme-postmeta.php:136
+msgid "All "
+msgstr ""
+
+#: admin/admin-interface.php:733
+msgid "No "
+msgstr ""
+
+#: functions/theme-functions.php:224
+#, php-format
+msgid "View all items filed under %s"
+msgstr ""
+
+#: functions/theme-functions.php:240
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: functions/theme-options.php:72
+msgid "General Settings"
+msgstr ""
+
+#: functions/theme-options.php:76
+msgid "Control and configure the general setup of your theme. Upload your preferred logo, setup your feeds and insert your analytics tracking code."
+msgstr ""
+
+#: functions/theme-options.php:79
+msgid "Website Description"
+msgstr ""
+
+#: functions/theme-options.php:80
+msgid "Enter your site description. This will appear underneath your logo."
+msgstr ""
+
+#: functions/theme-options.php:85
+msgid "Contact Telephone Number"
+msgstr ""
+
+#: functions/theme-options.php:86
+msgid "Enter your contact telephone number. This will appear beside your site navigation"
+msgstr ""
+
+#: functions/theme-options.php:91
+msgid "Contact Email Address"
+msgstr ""
+
+#: functions/theme-options.php:92
+msgid "Enter your contact email address. This will appear beside your site navigation"
+msgstr ""
+
+#: functions/theme-options.php:99
+msgid "Enable Plain Text Logo"
+msgstr ""
+
+#: functions/theme-options.php:100
+msgid "Check this to enable a plain text logo rather than an image."
+msgstr ""
+
+#: functions/theme-options.php:105
+msgid "Custom Logo"
+msgstr ""
+
+#: functions/theme-options.php:106
+msgid "Upload a logo for your theme, or specify the image address of your online logo. (http://example.com/logo.png)"
+msgstr ""
+
+#: functions/theme-options.php:112
+msgid "Custom Favicon"
+msgstr ""
+
+#: functions/theme-options.php:113
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: functions/theme-options.php:118
+msgid "Contact Form Email Address"
+msgstr ""
+
+#: functions/theme-options.php:119
+msgid "Enter the email address where you'd like to receive emails from the contact form, or leave blank to use admin email."
+msgstr ""
+
+#: functions/theme-options.php:124
+msgid "FeedBurner URL"
+msgstr ""
+
+#: functions/theme-options.php:125
+msgid "Enter your full FeedBurner URL (or any other preferred feed URL) if you wish to use FeedBurner over the standard WordPress Feed e.g. http://feeds.feedburner.com/yoururlhere"
+msgstr ""
+
+#: functions/theme-options.php:130
+msgid "Tracking Code"
+msgstr ""
+
+#: functions/theme-options.php:131
+msgid "Paste your Google Analytics (or other) tracking code here. It will be inserted before the closing body tag of your theme."
+msgstr ""
+
+#: functions/theme-options.php:138
+msgid "Styling Options"
+msgstr ""
+
+#: functions/theme-options.php:143
+msgid "Configure the visual appearance of you theme by selecting a stylesheet if applicable, choosing your overall layout and inserting any custom CSS necessary."
+msgstr ""
+
+#: functions/theme-options.php:146
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: functions/theme-options.php:147
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: functions/theme-options.php:153
+msgid "Link Colour"
+msgstr ""
+
+#: functions/theme-options.php:154
+msgid "Select your themes link colour scheme."
+msgstr ""
+
+#: functions/theme-options.php:159
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/theme-options.php:160
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: functions/theme-options.php:166
+msgid "Overlay Options"
+msgstr ""
+
+#: functions/theme-options.php:170
+msgid "Choose whether to enable/disable your site's overlay. Use this feature to show special content."
+msgstr ""
+
+#: functions/theme-options.php:173
+msgid "Enable Overlay"
+msgstr ""
+
+#: functions/theme-options.php:174
+msgid "Check this to enable the overlay."
+msgstr ""
+
+#: functions/theme-options.php:179
+msgid "Overlay Content"
+msgstr ""
+
+#: functions/theme-options.php:180
+msgid "Choose the page you wish to use within your overlay."
+msgstr ""
+
+#: functions/theme-options.php:188
+msgid "Homepage Options"
+msgstr ""
+
+#: functions/theme-options.php:192
+msgid "The following settings allow you to customise the ajax slider on the default home page template."
+msgstr ""
+
+#: functions/theme-options.php:195
+msgid "Enable Auto Slide"
+msgstr ""
+
+#: functions/theme-options.php:196
+msgid "Check this to enable the slider to load a new slide automatically after a period of time."
+msgstr ""
+
+#: functions/theme-options.php:201
+msgid "Slide Duration"
+msgstr ""
+
+#: functions/theme-options.php:202
+msgid "Enter in the amount of milliseconds before the slider loads the next post. 5000 = 5 seconds."
+msgstr ""
+
+#: functions/theme-options.php:211
+msgid "Homepage Alt Options"
+msgstr ""
+
+#: functions/theme-options.php:215
+msgid "Portfolio area settings."
+msgstr ""
+
+#: functions/theme-options.php:218
+msgid "Enable Portfolio Area"
+msgstr ""
+
+#: functions/theme-options.php:219
+msgid "Check this to enable the portfolio posts on the homepage."
+msgstr ""
+
+#: functions/theme-options.php:225
+msgid "Recent Work Title"
+msgstr ""
+
+#: functions/theme-options.php:226
+msgid "Enter in the title you wish to use in place of \"Recent Work\"."
+msgstr ""
+
+#: functions/theme-options.php:231
+msgid "Portfolio Order"
+msgstr ""
+
+#: functions/theme-options.php:232
+msgid "Choose the order of your portfolio posts."
+msgstr ""
+
+#: functions/theme-options.php:235
+#: functions/theme-options.php:266
+msgid "Date"
+msgstr ""
+
+#: functions/theme-options.php:235
+#: functions/theme-options.php:266
+msgid "Random"
+msgstr ""
+
+#: functions/theme-options.php:238
+msgid "Portfolio Number"
+msgstr ""
+
+#: functions/theme-options.php:239
+msgid "Enter the amount of portfolio posts you would like to show."
+msgstr ""
+
+#: functions/theme-options.php:245
+msgid "Blog area settings."
+msgstr ""
+
+#: functions/theme-options.php:249
+msgid "Enable Blog Area"
+msgstr ""
+
+#: functions/theme-options.php:250
+msgid "Check this to enable the blog posts on the homepage."
+msgstr ""
+
+#: functions/theme-options.php:256
+msgid "From the Blog Title"
+msgstr ""
+
+#: functions/theme-options.php:257
+msgid "Enter in the title you wish to use in place of \"From the Blog\"."
+msgstr ""
+
+#: functions/theme-options.php:262
+msgid "Blog Order"
+msgstr ""
+
+#: functions/theme-options.php:263
+msgid "Choose the order of your blog posts."
+msgstr ""
+
+#: functions/theme-options.php:269
+msgid "Blog Number"
+msgstr ""
+
+#: functions/theme-options.php:270
+msgid "Enter the amount of blog posts you would like to show."
+msgstr ""
+
+#: functions/theme-options.php:278
+msgid "The following settings allow you to configure the image slider on the alternative home page template."
+msgstr ""
+
+#: functions/theme-options.php:282
+msgid "Enable Slider"
+msgstr ""
+
+#: functions/theme-options.php:283
+msgid "Check this to enable the image slider."
+msgstr ""
+
+#: functions/theme-options.php:288
+msgid "Autoslide"
+msgstr ""
+
+#: functions/theme-options.php:289
+msgid "Enter in the amount of milliseconds before the next transition or leave blank to disable auto slide. 5000 = 5 seconds."
+msgstr ""
+
+#: functions/theme-options.php:294
+#: functions/theme-portfoliometa.php:61
+msgid "Image 1"
+msgstr ""
+
+#: functions/theme-options.php:295
+#: functions/theme-options.php:307
+#: functions/theme-options.php:319
+#: functions/theme-options.php:331
+#: functions/theme-options.php:343
+msgid "Upload an image to show in the slider."
+msgstr ""
+
+#: functions/theme-options.php:300
+msgid "Image 1 Link"
+msgstr ""
+
+#: functions/theme-options.php:301
+#: functions/theme-options.php:313
+#: functions/theme-options.php:325
+#: functions/theme-options.php:337
+#: functions/theme-options.php:349
+msgid "Enter in the URL you wish to link to, or leave blank to disable linking for this image."
+msgstr ""
+
+#: functions/theme-options.php:306
+#: functions/theme-portfoliometa.php:75
+msgid "Image 2"
+msgstr ""
+
+#: functions/theme-options.php:312
+msgid "Image 2 Link"
+msgstr ""
+
+#: functions/theme-options.php:318
+#: functions/theme-portfoliometa.php:89
+msgid "Image 3"
+msgstr ""
+
+#: functions/theme-options.php:324
+msgid "Image 3 Link"
+msgstr ""
+
+#: functions/theme-options.php:330
+#: functions/theme-portfoliometa.php:103
+msgid "Image 4"
+msgstr ""
+
+#: functions/theme-options.php:336
+msgid "Image 4 Link"
+msgstr ""
+
+#: functions/theme-options.php:342
+#: functions/theme-portfoliometa.php:117
+msgid "Image 5"
+msgstr ""
+
+#: functions/theme-options.php:348
+msgid "Image 5 Link"
+msgstr ""
+
+#: functions/theme-options.php:355
+msgid "Portfolio Options"
+msgstr ""
+
+#: functions/theme-options.php:359
+msgid "The following settings allow you to customise areas in your portfolio posts."
+msgstr ""
+
+#: functions/theme-options.php:362
+msgid "Enable Autoslide"
+msgstr ""
+
+#: functions/theme-options.php:363
+msgid "Enter in the amount of milliseconds before the slider goes onto the next transition. 5000 = 5 seconds, 0 will disable auto slide."
+msgstr ""
+
+#: functions/theme-options.php:368
+msgid "Enable Related Posts"
+msgstr ""
+
+#: functions/theme-options.php:369
+msgid "Check this to enable the related posts area."
+msgstr ""
+
+#: functions/theme-options.php:374
+msgid "Related Title"
+msgstr ""
+
+#: functions/theme-options.php:375
+msgid "Enter the related posts title."
+msgstr ""
+
+#: functions/theme-options.php:380
+msgid "Related Posts Number"
+msgstr ""
+
+#: functions/theme-options.php:381
+msgid "Enter the amount of related posts to show."
+msgstr ""
+
+#: functions/theme-options.php:389
+msgid "Post Options"
+msgstr ""
+
+#: functions/theme-options.php:393
+msgid "Here you can configure how you would like your posts to function."
+msgstr ""
+
+#: functions/theme-options.php:396
+msgid "Show Featured Image"
+msgstr ""
+
+#: functions/theme-options.php:397
+msgid "Check this to show the featured image at the beginning of the post."
+msgstr ""
+
+#: functions/theme-options.php:402
+msgid "Respond Caption"
+msgstr ""
+
+#: functions/theme-options.php:403
+msgid "Input a caption that will sit near the comment reply form."
+msgstr ""
+
+#: functions/theme-portfoliometa.php:18
+msgid "Image & Display Settings"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:24
+msgid "Portfolio Type"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:25
+msgid "Choose the type of portfolio post you wish to display."
+msgstr ""
+
+#: functions/theme-portfoliometa.php:32
+msgid "Enable Lightbox"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:33
+msgid "Check this to enable the lightbox."
+msgstr ""
+
+#: functions/theme-portfoliometa.php:40
+msgid "Image Thumbnail"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:41
+msgid "210px x 140px"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:54
+msgid "Image 1 Height"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:55
+msgid "You need to define a height of the first image to enable the autoHeight feature. E.g. 500"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:62
+#: functions/theme-portfoliometa.php:76
+#: functions/theme-portfoliometa.php:90
+#: functions/theme-portfoliometa.php:104
+#: functions/theme-portfoliometa.php:118
+#: functions/theme-portfoliometa.php:132
+#: functions/theme-portfoliometa.php:146
+#: functions/theme-portfoliometa.php:160
+#: functions/theme-portfoliometa.php:174
+#: functions/theme-portfoliometa.php:188
+msgid "900px x unlimited"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:131
+msgid "Image 6"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:145
+msgid "Image 7"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:159
+msgid "Image 8"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:173
+msgid "Image 9"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:187
+msgid "Image 10"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:206
+msgid "Video Settings"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:211
+msgid "Video Height"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:212
+msgid "The video height (e.g. 500)."
+msgstr ""
+
+#: functions/theme-portfoliometa.php:217
+msgid "M4V File URL"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:218
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:223
+msgid "OGV File URL"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:224
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:229
+msgid "Poster Image"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:230
+msgid "The preview image."
+msgstr ""
+
+#: functions/theme-portfoliometa.php:236
+msgid "Embedded Code"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:237
+msgid "If you are using something other than self hosted video such as Youtube or Vimeo, paste the embed code here. Width is best at 900px with any height.<br><br> This field will override the above."
+msgstr ""
+
+#: functions/theme-portfoliometa.php:248
+msgid "Audio Settings"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:253
+msgid "MP3 File URL"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:254
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:259
+msgid "OGA File URL"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:260
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: functions/theme-portfoliometa.php:297
+msgid "Upload an image and then click \"insert into post\". To delete an image, simply clear the field."
+msgstr ""
+
+#: functions/theme-portfoliometa.php:360
+#: functions/theme-portfoliometa.php:409
+msgid "These settings enable you to embed videos into your portfolio pages."
+msgstr ""
+
+#: functions/theme-postmeta.php:99
+msgid "These settings are optional. If these settings are left blank, the featured image will be used. Upload an image and then click \"insert into post\". To delete an image, simply clear the field."
+msgstr ""
+
+#: functions/theme-posttypes.php:10
+msgid "Slides"
+msgstr ""
+
+#: functions/theme-posttypes.php:11
+msgid "Slide"
+msgstr ""
+
+#: functions/theme-posttypes.php:13
+msgid "Add New Slide"
+msgstr ""
+
+#: functions/theme-posttypes.php:14
+msgid "Edit Slide"
+msgstr ""
+
+#: functions/theme-posttypes.php:15
+msgid "New Slide"
+msgstr ""
+
+#: functions/theme-posttypes.php:16
+msgid "View Slide"
+msgstr ""
+
+#: functions/theme-posttypes.php:17
+msgid "Search Slides"
+msgstr ""
+
+#: functions/theme-posttypes.php:18
+msgid "No slides found"
+msgstr ""
+
+#: functions/theme-posttypes.php:19
+msgid "No slides found in Trash"
+msgstr ""
+
+#: functions/theme-posttypes.php:37
+msgid "slide"
+msgstr ""
+
+#: functions/theme-posttypes.php:48
+#: functions/theme-posttypes.php:49
+msgid "Portfolio"
+msgstr ""
+
+#: functions/theme-posttypes.php:50
+msgid "Add New"
+msgstr ""
+
+#: functions/theme-posttypes.php:51
+msgid "Add New Portfolio"
+msgstr ""
+
+#: functions/theme-posttypes.php:52
+msgid "Edit Portfolio"
+msgstr ""
+
+#: functions/theme-posttypes.php:53
+msgid "New Portfolio"
+msgstr ""
+
+#: functions/theme-posttypes.php:54
+msgid "View Portfolio"
+msgstr ""
+
+#: functions/theme-posttypes.php:55
+msgid "Search Portfolio"
+msgstr ""
+
+#: functions/theme-posttypes.php:56
+msgid "No portfolios found"
+msgstr ""
+
+#: functions/theme-posttypes.php:57
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: functions/theme-posttypes.php:74
+#: functions/theme-posttypes.php:83
+msgid "portfolio"
+msgstr ""
+
+#: functions/theme-posttypes.php:83
+#: functions/theme-posttypes.php:121
+msgid "skill-type"
+msgstr ""
+
+#: functions/theme-posttypes.php:83
+msgid "Skill Types"
+msgstr ""
+
+#: functions/theme-posttypes.php:83
+msgid "Skill Type"
+msgstr ""
+
+#: functions/theme-posttypes.php:90
+msgid "Slide Title"
+msgstr ""
+
+#: functions/theme-posttypes.php:105
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: functions/theme-posttypes.php:106
+#: functions/theme-posttypes.php:120
+msgid "type"
+msgstr ""
+
+#: functions/widget-flickr.php:36
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: functions/widget-flickr.php:47
+msgid "Custom Flickr Photos"
+msgstr ""
+
+#: functions/widget-flickr.php:129
+#: functions/widget-tweets.php:139
+#: functions/widget-video.php:128
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-flickr.php:135
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions/widget-flickr.php:141
+msgid "Number of Photos:"
+msgstr ""
+
+#: functions/widget-flickr.php:150
+msgid "Type (user or group):"
+msgstr ""
+
+#: functions/widget-flickr.php:159
+msgid "Display (random or latest):"
+msgstr ""
+
+#: functions/widget-tweets.php:41
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: functions/widget-tweets.php:47
+msgid "Custom Latest Tweets"
+msgstr ""
+
+#: functions/widget-tweets.php:145
+msgid "Twitter Username e.g. ormanclark"
+msgstr ""
+
+#: functions/widget-tweets.php:151
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: functions/widget-tweets.php:157
+msgid "Follow Text e.g. Follow me on Twitter"
+msgstr ""
+
+#: functions/widget-video.php:36
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#: functions/widget-video.php:47
+msgid "Custom Video Widget"
+msgstr ""
+
+#: functions/widget-video.php:134
+msgid "Embed Code:"
+msgstr ""
+
+#: functions/widget-video.php:140
+msgid "Short Description:"
+msgstr ""
+
+#: tinymce/config.php:9
+msgid "Button URL"
+msgstr ""
+
+#: tinymce/config.php:10
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: tinymce/config.php:14
+msgid "Button's Style"
+msgstr ""
+
+#: tinymce/config.php:15
+msgid "Select the button's style, ie the buttons colour"
+msgstr ""
+
+#: tinymce/config.php:29
+msgid "Button's Size"
+msgstr ""
+
+#: tinymce/config.php:30
+msgid "Select the button's size"
+msgstr ""
+
+#: tinymce/config.php:39
+msgid "Button's Text"
+msgstr ""
+
+#: tinymce/config.php:40
+msgid "Add the button's text"
+msgstr ""
+
+#: tinymce/config.php:44
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: tinymce/config.php:52
+msgid "Alert's Style"
+msgstr ""
+
+#: tinymce/config.php:53
+msgid "Select the slter's style, ie the alert colour"
+msgstr ""
+
+#: tinymce/config.php:64
+msgid "Alert's Text"
+msgstr ""
+
+#: tinymce/config.php:65
+msgid "Add the alert's text"
+msgstr ""
+
+#: tinymce/config.php:70
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: tinymce/config.php:78
+msgid "Toggle Content Title"
+msgstr ""
+
+#: tinymce/config.php:79
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: tinymce/config.php:85
+msgid "Toggle Content"
+msgstr ""
+
+#: tinymce/config.php:86
+msgid "Add the toggle content."
+msgstr ""
+
+#: tinymce/config.php:91
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: tinymce/config.php:99
+msgid "Tab Titles"
+msgstr ""
+
+#: tinymce/config.php:100
+msgid "Please enter the tab titles here, seperating each by a comma. They must match the tabs that are created below."
+msgstr ""
+
+#: tinymce/config.php:105
+msgid "Insert Column Shortcode"
+msgstr ""
+
+#: tinymce/config.php:112
+msgid "Tab Title"
+msgstr ""
+
+#: tinymce/config.php:113
+msgid "Title of the tab"
+msgstr ""
+
+#: tinymce/config.php:118
+msgid "Tab Content"
+msgstr ""
+
+#: tinymce/config.php:119
+msgid "Add the tabs content"
+msgstr ""
+
+#: tinymce/config.php:123
+msgid "Add Tab"
+msgstr ""
+
+#: tinymce/config.php:131
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: tinymce/config.php:139
+msgid "Column Type"
+msgstr ""
+
+#: tinymce/config.php:140
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: tinymce/config.php:169
+msgid "Column Content"
+msgstr ""
+
+#: tinymce/config.php:170
+msgid "Add the column content."
+msgstr ""
+
+#: tinymce/config.php:174
+msgid "Add Column"
+msgstr ""
+

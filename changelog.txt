@@ -1,0 +1,100 @@
+*** Nucleus Changelog ***
+
+16 July 2013 - Version 1.4
+
+	* style.css
+		- update version number
+		- update Twitter styles
+		- minor formatting clean up
+	* home-slider.php - fix buffer warning
+	* functions.php - enqueue jquery-migrate
+
+	ADDED:
+	* functions/oauth/OAuth.php
+	* functions/oauth/twitteroauth.php
+
+	REMOVED:
+	* twitter.js
+
+11 January 2013 - Version 1.3
+
+	* style.css
+		- update version
+		- update tabs selector
+		- fix nav bug
+	* dark.css - update tabs selector
+	* js/jquery.custom.js - fix tabs call
+	* admin/admin-style.css - minor CSS tweaks
+	* functions.php 
+		- enqueue zilla-meta.css
+		- fix fancybox enqueue
+		- remove include to theme-postmeta.php
+	* functions/theme-portfoliometa.php
+		- fix PHP notices
+		- update to use new media in WP3.5
+	* functions/theme-functions.php - update get_posts_related_by_taxonomy to pull from all terms
+	* tinymce/config.php
+		- fix one_fourth/one_fourth_last
+		- fix tabs
+
+	REMOVE
+	* theme-postmeta.php
+
+	ADD
+	* admin/zilla-meta.css
+
+13 August 2012 - Version 1.2.1
+
+	* style.css
+		- updated version number
+		- updated copyright information
+		- fixed width on 4/5 column
+	* functions.php - remove Google CDN of jQuery
+	* header.php - updated copyright information
+	* footer.php - updated copyright information
+
+18 June 2012 - Version 1.2
+
+	* admin-interface.php - moved to wp_get_theme()
+	* theme-options.php - moved to wp_get_theme()
+	* upload-button.js - fixed Cheatin Eh? bug
+	* jquery.custom.js - moved in tabs and toggles code
+	* functions.php
+		- fixed squished logo
+		- removed url and theme name echos
+		- jQuery UI enqueue updated
+	* style.css - updated version
+	
+	ADDED
+	* jquery.easing.1.3.js
+	
+	REMOVED
+	* jquery-ui-1.8.5.custom.min.js
+	* jquery.tabbed-widget.js
+
+05 Jan 2012 - Version 1.1.1
+	
+	* widget-tweets.php - updated to allow multiple instances
+	* index.php - fixed localization text domain
+	* functions.php 
+		- updated validation plugin version
+		- use wp_enqueue_scripts
+	* style.css - version number updated
+	
+	ADDED:
+	twitter.js
+
+19 Sept 2011 - Version 1.1
+	
+	* tinymce/config.php - Fixed one fourth column
+	* style.css - Version number change and textarea styling
+	* functions/theme-functions.php - Removed unnecessary functions
+	* functions/theme-posttypes.php - Fixed rewrite bug
+	* template-contact.php - Fixed bug
+	* functions/theme-shortcodes.php - Tabs now support multiple instances
+	* header.php - Fixed menu classes
+	* js/jquery.custom.js - Images are loaded before slider is loaded
+	
+24 Aug 2011 - Version 1.0
+	
+	* First Release

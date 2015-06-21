@@ -1,0 +1,197 @@
+/*==========================================================================================
+	
+Dark CSS File
+This file contains styles related to the colour scheme of the theme
+
+==========================================================================================
+
+	1.	Global Colours
+
+==========================================================================================*/
+
+
+/*==========================================================================================
+	1.	Global Colours
+==========================================================================================*/
+
+html { background: url(../images/dark/body_bg.jpg) repeat; }
+
+body {
+	background: url(../images/dark/body_shine.jpg) no-repeat center center;
+	text-shadow: 0px 1px 0 rgba(0,0,0,0.3);
+	color: #aaadb3;
+}
+
+#logo a { color: #fff; }
+
+input,
+textarea {
+	background: #292c31;
+	color: #898d97;
+	border: 1px solid #212327;
+	-webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.15);
+	   -moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.15);
+    		box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+input:focus,
+textarea:focus {
+	border: 1px solid #131415;
+	background: #1f2125;
+}
+
+.contactform button,
+#commentform #submit-button {
+	color: #57585c;
+	border: 1px solid #bababa;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+	   -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+    		box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+	text-shadow: 0 1px 0 rgba(255,255,255,1);
+}
+
+pre {
+	background: #292c31;
+	border: 1px solid #212327;
+	-webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.15);
+	   -moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.15);
+    		box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+blockquote {
+	border-left: 2px solid #aaadb3;
+	color: #898d97;
+}
+
+#tagline { color: #898d97; }
+
+#primary-nav a { color: #aaadb3; }
+
+#primary-nav ul { border-top: 1px solid #5f6167; }
+
+#overlay { 
+	background: url(../images/dark/overlay_bg.jpg) repeat;
+	border-bottom: 1px solid #4e535a;
+	color: #cccfd5;
+}
+
+#overlay a:hover { color: #cccfd5; }
+
+#overlay .entry-content { color: #cccfd5; }
+
+#overlay blockquote { color: #cccfd5; }
+
+#overlay-trigger a { background-image: url(../images/dark/overlay_trigger.png); }
+
+#sidebar,
+.comment-body,
+.entry-content,
+.entry-excerpt,
+.entry-meta a:hover,
+.comment-meta a:hover,
+#footer a { color: #aaadb3; }
+
+a,
+.entry-content .wp-caption,
+#respond small,
+.navigation,
+#filter li,
+.entry-meta,
+#footer,
+#footer a:hover  {
+	color: #898d97;
+}
+
+#slide-left a,
+#slide-right a {
+	background-image: url(../images/dark/slide_arrows.png);
+}
+
+#loading { background: url(../images/dark/ajax-loader.gif); }
+
+.progress-bar-track { background:  url(../images/dark/progressbar_track.png) no-repeat; }
+
+.progress-bar-bg { background: url(../images/dark/progressbar_bg.png) right; }
+
+.progress-bar-side { background: url(../images/dark/progressbar_side.png); }
+
+.pause a { background-image: url(../images/dark/pause.png); }
+
+#sidebar .tz_tweet_widget span a,
+#sidebar a,
+.entry-content a,
+.entry-excerpt a,
+.comment-body a {
+	border-bottom: 1px dotted #777;
+}
+
+#sidebar .tz_tweet_widget span a:hover,
+#sidebar a:hover,
+.entry-content a:hover,
+.entry-excerpt a:hover,
+.comment-body a:hover {
+	border-bottom: 1px dotted #999;
+	color: #aaadb3;
+}
+
+.comment-wrapper,
+.navigation,
+#filter,
+.home-title { border-bottom: 1px solid #5f6167; }
+
+.entry-footer { border-top: 1px solid #5f6167; }
+
+h1,h2,h3,h4,h5,h6,
+#respond h3,
+.author-name a,
+.author-name,
+.navigation strong,
+#filter li a.active,
+#filter li strong,
+#filter li a:hover,
+.entry-title a,
+.entry-title { color: #cccfd5; }
+
+.comment-title-wrap,
+.widget,
+.entry-footer,
+.single-portfolio .hentry,
+.image-grid li .entry-title a,
+#filter li a span,
+#filter li a.active span,
+.page-template-template-home-alt-php .entry-excerpt,
+.page-template-template-home-alt-php .type-portfolio .entry-title a { border-bottom: 2px solid #aaadb3; }
+
+.post-thumb-overlay { background: url(../images/dark/post_thumb_overlay.png) no-repeat; }
+
+.flickr_badge_image a { background: #292c31; }
+
+.flickr_badge_image a:hover { background: #131416; }
+
+.toggle h4 {
+	background: #292c31;
+	border: 1px solid #131416;
+}
+
+.toggle-inner {
+	background: #292c31;
+	border: 1px solid #131416;
+	border-top: none;
+}
+
+.tabs ul.nav li a {
+	border: 1px solid #131416;
+	border-bottom: none;
+	background: #202225;
+}
+
+.tabs ul.nav li.ui-tabs-selected a,
+.tabs ul.nav li.ui-tabs-active a {
+	background: #292c31;
+}
+
+.tabs .tab {
+	background: #292c31;
+	border: 1px solid #131416;
+}
+

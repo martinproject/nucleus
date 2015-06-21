@@ -1,0 +1,164 @@
+/*==========================================================================================
+	
+Clean CSS File
+This file contains styles related to the colour scheme of the theme
+
+==========================================================================================
+
+	1.	Global Colours
+
+==========================================================================================*/
+
+
+/*==========================================================================================
+	1.	Global Colours
+==========================================================================================*/
+
+body { 
+	background: #fff;
+	color: #40454d;
+}
+
+a { color: #40454D; }
+
+input,
+textarea {
+	color: #7c808a;
+	background: #fff;
+	border: 1px solid #cccfd5;
+}
+
+input:focus,
+textarea:focus {
+	border: 1px solid #7c808a;
+}
+
+.contactform button,
+#commentform #submit-button {
+	color: #57585c;
+	border: 1px solid #b3b6bd;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+	   -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+    		box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+	text-shadow: 0 1px 0 rgba(255,255,255,1);
+}
+
+pre {
+	background: #f9f9fa;
+	border: none;
+}
+
+blockquote {
+	border-left: 2px solid #42474f;
+	color: #7c808a;
+}
+
+
+#tagline { color: #7c808a; }
+
+#primary-nav a { color: #52575f; }
+
+#primary-nav ul { border-top: 1px solid #cccfd5; }
+
+#overlay { 
+	background: #40454d; 
+	border-bottom: 1px solid #fff;
+	color: #cccfd5;
+	text-shadow: none;
+}
+
+#overlay a:hover { color: #cccfd5; }
+
+#overlay .entry-content { color: #cccfd5; }
+
+#overlay blockquote { color: #cccfd5; }
+
+#overlay-trigger a { background-image: url(../images/clean/overlay_trigger.png); }
+
+#sidebar,
+.comment-body,
+.entry-content,
+.entry-excerpt,
+.entry-meta a:hover,
+.comment-meta a:hover,
+#footer a { color: #52575f; }
+
+.comment-meta,
+.comment-meta a,
+#overlay a,
+.entry-meta a,
+.entry-content .wp-caption,
+#respond small,
+.navigation,
+#filter li a,
+.entry-meta,
+#footer,
+#footer a:hover {
+	color: #7c808a;
+}
+
+#slide-left a,
+#slide-right a {
+	background-image: url(../images/clean/slide_arrows.png);
+}
+
+#loading { background: url(../images/clean/ajax-loader.gif); }
+
+.progress-bar-track { background:  url(../images/clean/progressbar_track.png) no-repeat; }
+
+.progress-bar-bg { background: url(../images/clean/progressbar_bg.png) right; }
+
+.progress-bar-side { background: url(../images/clean/progressbar_side.png); }
+
+.pause a { background-image: url(../images/clean/pause.png); }
+
+#sidebar .tz_tweet_widget span a,
+#sidebar a,
+.entry-content a,
+.entry-excerpt a,
+.comment-body a {
+	border-bottom: 1px dotted #999;
+}
+
+#sidebar .tz_tweet_widget span a:hover,
+#sidebar a:hover,
+.entry-content a:hover,
+.entry-excerpt a:hover,
+.comment-body a:hover {
+	border-bottom: 1px solid #e0e0e0;
+	color: #52575f;
+}
+
+.comment-wrapper,
+.navigation,
+#filter,
+.home-title { border-bottom: 1px solid #cccfd5; }
+
+.entry-footer { border-top: 1px solid #cccfd5; }
+
+h1,h2,h3,h4,h5,h6,
+#respond h3,
+.author-name a,
+.author-name,
+.navigation strong,
+#filter li a.active,
+#filter li strong,
+#filter li a:hover,
+.entry-title a,
+entry-title { color: #40454d; }
+
+.comment-title-wrap,
+.widget,
+.entry-footer,
+.single-portfolio .hentry,
+.image-grid li .entry-title a,
+#filter li a span,
+#filter li a.active span,
+.page-template-template-home-alt-php .entry-excerpt,
+.page-template-template-home-alt-php .type-portfolio .entry-title a { border-bottom: 2px solid #42474f; }
+
+.post-thumb-overlay { background: url(../images/clean/post_thumb_overlay.png) no-repeat; }
+
+.flickr_badge_image a { background: #f9f9fa; }
+
+.flickr_badge_image a:hover { background: #40454d; }
