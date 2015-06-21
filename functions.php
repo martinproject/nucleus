@@ -17,6 +17,8 @@
 function register_menu() {
 	register_nav_menu('primary-menu-one', __('Primary Menu One'));
 	register_nav_menu('primary-menu-two', __('Primary Menu Two'));
+	register_nav_menu('primary-menu-three', __('Primary Menu Three'));
+	register_nav_menu('primary-menu-four', __('Primary Menu Four'));
 }
 add_action('init', 'register_menu');
 
