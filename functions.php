@@ -67,8 +67,11 @@ if ( function_exists( 'add_theme_support' ) ) {
 	add_theme_support( 'post-thumbnails' );
 	set_post_thumbnail_size( 50, 50, true ); // Normal post thumbnails
 	add_image_size( 'large', 670, '', true );
+	add_image_size( 'portfolio', 400, 300, true );
+	add_image_size( 'original', 800, 600, true );
 	add_image_size( 'thumbnail-home', 210, 140, true );
-	add_image_size( 'thumbnail-blog', 670, '', true );
+	add_image_size( 'thumbnail-blog', 470, '', true );
+	add_image_size( 'thumbnail-portfolio', 200, 150, true );
 }
 
 
